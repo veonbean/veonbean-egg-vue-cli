@@ -3,6 +3,10 @@
     "egg-vue": {
       "url": "https://github.com/veonbean/egg-vue-ssr-template.git",
       "branch": "master"
+    },
+    "egg-vue-c": {
+      "url": "https://git.dev.tencent.com/veonbean/egg-vue-elementui-template.git",
+      "branch": "master"
     }
   }
 }
