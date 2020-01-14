@@ -1,0 +1,8 @@
+{
+  "tpl": {
+    "egg-vue": {
+      "url": "https://github.com/veonbean/egg-vue-ssr-template.git",
+      "branch": "master"
+    }
+  }
+}
